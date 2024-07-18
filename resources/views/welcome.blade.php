@@ -54,7 +54,7 @@
 
 <body>
     @livewire('counter')
-    <script src="{{ asset('node_modules/signature_pad/dist/signature_pad.umd.min.js') }}"></script>
+    
 
     @livewireScripts
 
